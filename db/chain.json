@@ -1,0 +1,13 @@
+[
+    {
+        "index": 0,
+        "hash_id": "first-block-doesnt-need-it",
+        "timestamp": 1644343006,
+        "pow": "aorocoin",
+        "content": {
+            "from": "network",
+            "to": "tanmayk",
+            "amount": 1
+        }
+    }
+]

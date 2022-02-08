@@ -1,0 +1,14 @@
+{
+    "name": "tanmayk/aorocoin",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tanmay Khedekar",
+            "email": "tanmay.khedekar01@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    }
+}
